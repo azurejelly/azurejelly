@@ -4,7 +4,7 @@ hi, i'm azure. i mostly do stuff with docker, java, golang and typescript, but i
 ### some of my projects
 - [azuvotifier](https://github.com/azurejelly/azuvotifier), a modern NuVotifier fork with Sponge 11+ support, a standalone implementation and Redis forwarding.
 - [paper-template](https://github.com/azurejelly/paper-template), a Paper plugin template using Google Guice.
-- [nayuki](https://github.com/azurejelly/nayuki), a Discord suggestions bot built with Go and using MongoDB for storage.
+- [nayuki](https://github.com/azurejelly/nayuki), a very simple Discord suggestions bot written in Go.
 - [shell-switcher](https://github.com/azurejelly/shell-switcher), an easy to use Windows shell switcher (no longer updated).
 
 ### some projects i've contributed to
