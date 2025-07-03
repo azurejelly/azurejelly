@@ -9,6 +9,7 @@ hi, i'm azure. i mostly do stuff with docker, java, golang and typescript, but i
 ### some projects i've contributed to
 - [VERT](https://github.com/VERT-sh/VERT), a free, open source and mostly local file conversion utility.
 - [vertd](https://github.com/VERT-sh/vertd), what VERT uses for video conversion.
+- [Perspective Enhancements](https://github.com/girlbossdev/PerspectiveEnhancements), a Minecraft mod that allows you to customize the perspective key behavior
 
 ### fun facts
 - i do not use microsoft azure. my username comes from the shade of blue with that name.
