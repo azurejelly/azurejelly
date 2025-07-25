@@ -5,6 +5,7 @@ hi, i'm azure. i mostly do stuff with docker, java, golang and typescript, but i
 - [azuvotifier](https://github.com/azurejelly/azuvotifier), a modern NuVotifier fork with Sponge 11+ support, a standalone implementation and Redis forwarding.
 - [paper-template](https://github.com/azurejelly/paper-template), a Paper plugin template using Google Guice.
 - [nayuki](https://github.com/azurejelly/nayuki), a somewhat simple Discord suggestion management bot written in Go.
+- [konata-mod](https://github.com/azurejelly/konata-mod), a (stupid) Fabric mod that adds Konata Izumi images or jumpscares to your Minecraft client.
 
 ### some (public) projects i've contributed to
 - [VERT](https://github.com/VERT-sh/VERT), a free, open source and mostly local file conversion utility.
