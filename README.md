@@ -3,7 +3,7 @@ hi, i'm azure. i mostly do stuff with docker, java, golang and typescript, but i
 
 ### some of my projects
 - [azuvotifier](https://github.com/azurejelly/azuvotifier), a modern NuVotifier fork with Sponge 11+ support, a standalone implementation and Redis forwarding.
-- [paper-template](https://github.com/azurejelly/paper-template), a Paper plugin template using Google Guice.
+- [jelly-chats](https://github.com/azurejelly/jelly-chats), a Velocity plugin that adds highly customizable Redis-based private chats.
 - [nayuki](https://github.com/azurejelly/nayuki), a somewhat simple Discord suggestion management bot written in Go.
 - [konata-mod](https://github.com/azurejelly/konata-mod), a (stupid) Fabric mod that adds Konata Izumi images or jumpscares to your Minecraft client.
 
