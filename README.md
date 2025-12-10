@@ -5,6 +5,7 @@ hi, i'm azure. i mostly do stuff with docker, java, golang and typescript, and i
 - [azuvotifier](https://github.com/azurejelly/azuvotifier), a modern NuVotifier fork with Sponge 11+ support, a standalone implementation and Redis forwarding.
 - [jelly-chats](https://github.com/azurejelly/jelly-chats), a Velocity plugin that adds highly customizable Redis-based private chats.
 - [nayuki](https://github.com/azurejelly/nayuki), a somewhat simple Discord suggestion management bot written in Go.
+- [better-player-list](https://github.com/azurejelly/better-player-list), a Fabric mod which attempts to improve the default Minecraft player list.
 - [konata-mod](https://github.com/azurejelly/konata-mod), a (stupid) Fabric mod that adds Konata Izumi images or jumpscares to your Minecraft client.
 
 ### some (public) projects i've contributed to
