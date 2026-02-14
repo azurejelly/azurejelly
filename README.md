@@ -2,7 +2,7 @@
 hi, i'm azure. i mostly do stuff with docker, java, golang and typescript, and i'm also trying to learn other languages like C.
 
 ### some of my projects
-- [azuvotifier](https://github.com/azurejelly/azuvotifier), a modern NuVotifier fork with Sponge 11+ support, a standalone implementation and Redis forwarding
+- [azuvotifier](https://github.com/azurejelly/azuvotifier), yet another Votifier fork with various enhancements and support for additional platforms
 - [better-player-list](https://github.com/azurejelly/better-player-list), a mod which attempts to improve the default Minecraft player list
 - [konata-mod](https://github.com/azurejelly/konata-mod), a stupid Fabric mod that adds Konata Izumi images or jumpscares to your Minecraft client
 
