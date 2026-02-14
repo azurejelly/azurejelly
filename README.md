@@ -6,7 +6,7 @@ hi, i'm azure. i mostly do stuff with docker, java, golang and typescript, and i
 - [better-player-list](https://github.com/azurejelly/better-player-list), a mod which attempts to improve the default Minecraft player list
 - [konata-mod](https://github.com/azurejelly/konata-mod), a stupid Fabric mod that adds Konata Izumi images or jumpscares to your Minecraft client
 
-### some (public) projects i've contributed to
+### some projects i've contributed to
 - [VERT](https://github.com/VERT-sh/VERT), a free, open source and mostly local file conversion utility.
 - [vertd](https://github.com/VERT-sh/vertd), what VERT uses for video conversion.
 - [Perspective Enhancements](https://github.com/girlbossdev/PerspectiveEnhancements), a Minecraft mod that allows you to customize the perspective key behavior
