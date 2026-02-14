@@ -2,9 +2,9 @@
 hi, i'm azure. i mostly do stuff with docker, java, golang and typescript, and i'm also trying to learn other languages like C.
 
 ### some of my projects
-- [azuvotifier](https://github.com/azurejelly/azuvotifier), a modern NuVotifier fork with Sponge 11+ support, a standalone implementation and Redis forwarding.
-- [better-player-list](https://github.com/azurejelly/better-player-list), a Minecraft mod which attempts to improve the default Minecraft player list.
-- [konata-mod](https://github.com/azurejelly/konata-mod), a (stupid) Fabric mod that adds Konata Izumi images or jumpscares to your Minecraft client.
+- [azuvotifier](https://github.com/azurejelly/azuvotifier), a modern NuVotifier fork with Sponge 11+ support, a standalone implementation and Redis forwarding
+- [better-player-list](https://github.com/azurejelly/better-player-list), a mod which attempts to improve the default Minecraft player list
+- [konata-mod](https://github.com/azurejelly/konata-mod), a stupid Fabric mod that adds Konata Izumi images or jumpscares to your Minecraft client
 
 ### some (public) projects i've contributed to
 - [VERT](https://github.com/VERT-sh/VERT), a free, open source and mostly local file conversion utility.
@@ -13,4 +13,4 @@ hi, i'm azure. i mostly do stuff with docker, java, golang and typescript, and i
 
 ### fun facts
 - i do not use microsoft azure. my username comes from the shade of blue with that name.
-- i use arch btw
+- i use ~~arch~~ fedora btw
