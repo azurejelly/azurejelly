@@ -3,8 +3,8 @@ hi, i'm azure. i mostly do stuff with docker, java, golang and typescript, and i
 
 ### some of my projects
 - [azuvotifier](https://github.com/azurejelly/azuvotifier), yet another Votifier fork with various enhancements and support for additional platforms
-- [better-player-list](https://github.com/azurejelly/better-player-list), a mod which attempts to improve the default Minecraft player list
-- [konata-mod](https://github.com/azurejelly/konata-mod), a stupid Fabric mod that adds Konata Izumi images or jumpscares to your Minecraft client
+- [better-player-list](https://github.com/azurejelly/better-player-list), a client-side mod which attempts to improve the default Minecraft player list
+- [konata-mod](https://github.com/azurejelly/konata-mod), a stupid Fabric client-side mod that adds Konata Izumi images or jumpscares to your Minecraft client
 
 ### some projects i've contributed to
 - [VERT](https://github.com/VERT-sh/VERT), a free, open source and mostly local file conversion utility.
