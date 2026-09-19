@@ -1,5 +1,5 @@
 ## azure ![](https://komarev.com/ghpvc/?username=azure&color=blueviolet&abbreviated=false&base=2000&label=views) [![wakatime](https://wakatime.com/badge/user/9062d325-832a-4dc0-8487-9ae72db78723.svg)](https://wakatime.com/@9062d325-832a-4dc0-8487-9ae72db78723)
-hi, i'm azure. i mostly do stuff with docker, java, golang and typescript, and i'm also trying to learn other languages like C.
+hi, i'm azure. i mostly do stuff with docker, java, golang and typescript.
 
 ### some of my projects
 - [azuvotifier](https://github.com/azurejelly/azuvotifier), yet another Votifier fork with various enhancements and support for additional platforms
@@ -8,7 +8,7 @@ hi, i'm azure. i mostly do stuff with docker, java, golang and typescript, and i
 
 ### some projects i've contributed to
 - [VERT](https://github.com/VERT-sh/VERT), a free, open source and mostly local file conversion utility.
-- [vertd](https://github.com/VERT-sh/vertd), what VERT uses for video conversion.
+- [vertd](https://github.com/VERT-sh/vertd), what VERT uses for remote video conversion.
 - [Perspective Enhancements](https://github.com/girlbossdev/PerspectiveEnhancements), a Minecraft mod that allows you to customize the perspective key behavior
 
 ### fun facts
