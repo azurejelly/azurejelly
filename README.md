@@ -11,6 +11,7 @@ hi, i'm azure. i mostly do stuff with docker, java, golang and typescript.
 - [vertd](https://github.com/VERT-sh/vertd), what VERT uses for remote video conversion.
 - [Perspective Enhancements](https://github.com/girlbossdev/PerspectiveEnhancements), a Minecraft mod that allows you to customize the perspective key behavior
 
-### fun facts
-- i do not use microsoft azure. my username comes from the shade of blue with that name.
+### fun facts or something
 - i use ~~arch~~ fedora btw
+- i do not use microsoft azure. my username comes from the shade of blue with that name.
+- the wakatime thing is probably inaccurate because i always forget to install that extension. uh oh
